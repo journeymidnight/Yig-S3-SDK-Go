@@ -1,0 +1,263 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Pc2ORQp+VY3Un/dkh4QwLC7R6lE=",
+			"origin": "github.com/journeymidnight/yig/vendor/github.com/BurntSushi/toml",
+			"path": "github.com/BurntSushi/toml",
+			"revision": "a80e539ccc382dd5517037c0801a38cf67566d85",
+			"revisionTime": "2019-03-21T02:41:47Z"
+		},
+		{
+			"checksumSHA1": "FrFUyTbM2HweMAfdLEig956GBK0=",
+			"origin": "github.com/journeymidnight/yig/vendor/github.com/dustin/go-humanize",
+			"path": "github.com/dustin/go-humanize",
+			"revision": "a80e539ccc382dd5517037c0801a38cf67566d85",
+			"revisionTime": "2019-03-21T02:41:47Z"
+		},
+		{
+			"checksumSHA1": "blwbl9vPvRLtL5QlZgfpLvsFiZ4=",
+			"origin": "github.com/journeymidnight/aws-sdk-go/vendor/github.com/jmespath/go-jmespath",
+			"path": "github.com/jmespath/go-jmespath",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "PeoNskXV2qCPvwxtnFlF877PSmM=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "2TMi6S8D/6zQ6O+1BGiuhu0sA0o=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/awserr",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "R3+t81b37sUazFbqdQVkp0Qnrzo=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/awsutil",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "OfIZBJYCbtUWLO2Gpd+j/0mgKpU=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/client",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "lOPClT4mNIxt0ctDrmGj6Wpv26s=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/client/metadata",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "OKMloInYAjfSdpf+g1sngQ3i6eQ=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/corehandlers",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "xQgV0KwtiAnsUy4bmD4zDDtK1Ts=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/credentials",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "xyiWm+tQrO9/gnpqXTsGuRP/vvo=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/credentials/ec2rolecreds",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "59xRKGMxa3iJJcCUAH+W9dk3W4M=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/credentials/endpointcreds",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "TiWT2xbTqGl08uVxLxqJRwSZvls=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/credentials/processcreds",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "qYfH0NnpS13zqT8/UIMd7VaUPYw=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/credentials/stscreds",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "l0YYrQlSnGlRddrcp94Z9DsEYu8=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/csm",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "6c64mOPLprsdED1nSs9NCoWbS+Y=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/defaults",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "QhyU03MzoR2jDeQFONv1Wl5uuWE=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/ec2metadata",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "OBYnRYyz2BOiMAV4pm9U/IwXYzs=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/endpoints",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "6P/MZaQAd1U8UKwnmpU0Vtfe2LI=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/request",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "QKjhuYHpZMduWTOEHdERNe8ORMg=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/session",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "Xi0vLyoykgyUY7IadD0qPz0jCPc=",
+			"path": "github.com/journeymidnight/aws-sdk-go/aws/signer/v4",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "jDVPqAQIjQWQkuu9MtREYHy0580=",
+			"path": "github.com/journeymidnight/aws-sdk-go/internal/ini",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "6qJ3ux475FCR8lMcrcwJXG1EQJM=",
+			"path": "github.com/journeymidnight/aws-sdk-go/internal/s3err",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "R2rFVqyptLRUvrN81SMryJcLw5g=",
+			"path": "github.com/journeymidnight/aws-sdk-go/internal/sdkio",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "gZ377yQSFK7lSAvHIuVA9nn5tEc=",
+			"path": "github.com/journeymidnight/aws-sdk-go/internal/sdkrand",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "3eyuXOzSMknCqZ21WOzgBQyFLK8=",
+			"path": "github.com/journeymidnight/aws-sdk-go/internal/sdkuri",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "ANAImMDrNQYndR2E/wu/EJ1fcZ4=",
+			"path": "github.com/journeymidnight/aws-sdk-go/internal/shareddefaults",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "6ev8Foht4kZ8NX9Up/coX0b3ePE=",
+			"path": "github.com/journeymidnight/aws-sdk-go/private/protocol",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "KtIsa40HnqC9lIionPIfcyDORgc=",
+			"path": "github.com/journeymidnight/aws-sdk-go/private/protocol/eventstream",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "pfa+xI2i0bR4QD3+QwrZhL2CqWE=",
+			"path": "github.com/journeymidnight/aws-sdk-go/private/protocol/eventstream/eventstreamapi",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "8sKIaOpen/eNZf6VfIsldu0vRkw=",
+			"path": "github.com/journeymidnight/aws-sdk-go/private/protocol/query",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "h9B0hwro5ffiVgEIQzlV+0VHF44=",
+			"path": "github.com/journeymidnight/aws-sdk-go/private/protocol/query/queryutil",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "TiJF17WydWpk3hZbkaeHm2IsReo=",
+			"path": "github.com/journeymidnight/aws-sdk-go/private/protocol/rest",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "XrtqyqxPgy05BZqyPdPs9gpRDB4=",
+			"path": "github.com/journeymidnight/aws-sdk-go/private/protocol/restxml",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "fx2CJlC4ZXN78Pj66UAerv56Z3g=",
+			"path": "github.com/journeymidnight/aws-sdk-go/private/protocol/xml/xmlutil",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "mYCUV/dMYo0iZ34W+R2XMTUos7o=",
+			"path": "github.com/journeymidnight/aws-sdk-go/service/s3",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "qjcTka0MRC4wyXiGdlIs8rHPXTE=",
+			"path": "github.com/journeymidnight/aws-sdk-go/service/sts",
+			"revision": "72e3766fa27fb575fbd08892233ccf3ebc7e017f",
+			"revisionTime": "2019-02-25T13:20:37Z"
+		},
+		{
+			"checksumSHA1": "4fzo9Xd99A0sKBCC1J825TEkpUg=",
+			"path": "github.com/journeymidnight/yig/api/datatype",
+			"revision": "a80e539ccc382dd5517037c0801a38cf67566d85",
+			"revisionTime": "2019-03-21T02:41:47Z"
+		},
+		{
+			"checksumSHA1": "VZqybpZQIOPdR1i+13bl21ptFgY=",
+			"path": "github.com/journeymidnight/yig/error",
+			"revision": "a80e539ccc382dd5517037c0801a38cf67566d85",
+			"revisionTime": "2019-03-21T02:41:47Z"
+		},
+		{
+			"checksumSHA1": "1xodfS1Qdxycn6J/fo1CFzyAs2g=",
+			"path": "github.com/journeymidnight/yig/helper",
+			"revision": "a80e539ccc382dd5517037c0801a38cf67566d85",
+			"revisionTime": "2019-03-21T02:41:47Z"
+		},
+		{
+			"checksumSHA1": "vtUZWDXOsSnFOIS8L+NlDWb6VNA=",
+			"path": "github.com/journeymidnight/yig/log",
+			"revision": "a80e539ccc382dd5517037c0801a38cf67566d85",
+			"revisionTime": "2019-03-21T02:41:47Z"
+		},
+		{
+			"checksumSHA1": "Tc4lTUbQd3i2q9wUbyfja+oKX5I=",
+			"origin": "github.com/journeymidnight/yig/vendor/github.com/ugorji/go/codec",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "a80e539ccc382dd5517037c0801a38cf67566d85",
+			"revisionTime": "2019-03-21T02:41:47Z"
+		}
+	],
+	"rootPath": "github.com/journeymidnight/Yig-S3-SDK-Go"
+}
